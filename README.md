@@ -52,7 +52,7 @@
 
 ### 🇹🇷 Geliştiriciler / Developers 🇺🇲
   [![SakirBey](https://github.com/SakirBey1.png?size=100)](https://github.com/SakirBey1)
- [![mrxbl](https://github.com/mrxbl.png?size=100)](https://github.com/mrxbl)
+ [![mrxbl](https://github.com/mrxbl.png?size=40)](https://github.com/mrxbl)
 
 
 ### 🚀 Deploy to heroku
