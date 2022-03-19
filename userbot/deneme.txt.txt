@@ -1,0 +1,2 @@
+print(">> Bot çalıyor merak etme 🚀 @SakirBey1 bilgi alabilirsin <<")
+client.run_until_disconnected()
